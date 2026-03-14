@@ -72,7 +72,7 @@ Aspiring Software Engineer | Java & DSA | Exploring Web Development
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=priyanshu-kumar&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com/?user=priiyanshu-kumar&theme=tokyonight" />
 
 </p>
 
@@ -81,7 +81,7 @@ Aspiring Software Engineer | Java & DSA | Exploring Web Development
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu-kumar&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priiyanshu-kumar&theme=react-dark"/>
 </p>
 
 ---
@@ -131,17 +131,11 @@ Aspiring Software Engineer | Java & DSA | Exploring Web Development
 
 ---
 
-# 💡 Random Dev Quote
+# ✨ Quote
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p>
-
----
-
-# ✨ Quote
-
-> "Let the code you write echo louder than the words you say."
 
 ---
 
