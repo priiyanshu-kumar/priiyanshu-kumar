@@ -1,8 +1,3 @@
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/priyanshu-kumar/priyanshu-kumar/output/github-contribution-grid-snake.svg">
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5a0000,50:b11226,100:e50914&height=120&section=header"/>
 
@@ -87,6 +82,14 @@ Aspiring Software Engineer | Java & DSA | Exploring Web Development
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu-kumar&theme=react-dark"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/priiyanshu-kumar/priiyanshu-kumar/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
