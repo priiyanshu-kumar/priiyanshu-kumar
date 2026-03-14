@@ -1,4 +1,3 @@
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5a0000,50:b11226,100:e50914&height=120&section=header"/>
 
 <h1 align="center">It's me Priyanshu</h1>
@@ -12,7 +11,7 @@ Aspiring Software Engineer | Java & DSA | Exploring Web Development
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=priyanshu-kumar&label=Profile%20views&color=red&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=priiyanshu-kumar&label=Profile%20views&color=red&style=for-the-badge"/>
 </p>
 
 ---
@@ -24,6 +23,19 @@ Aspiring Software Engineer | Java & DSA | Exploring Web Development
 - 🧠 Improving **problem solving and algorithmic thinking**  
 - 📚 Exploring **HTML, CSS and Power BI**  
 - 🎯 Goal: Become a strong **Software Engineer**
+
+---
+
+# 🧑‍💻 Developer Dashboard
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priiyanshu-kumar&theme=github_dark"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=priiyanshu-kumar&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=priiyanshu-kumar&theme=github_dark"/>
+</p>
 
 ---
 
@@ -90,6 +102,14 @@ Aspiring Software Engineer | Java & DSA | Exploring Web Development
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/priiyanshu-kumar/priiyanshu-kumar/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+# 📅 Coding Heatmap
+
+<p align="center">
+<img src="https://ghchart.rshah.org/priiyanshu-kumar" />
 </p>
 
 ---
