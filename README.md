@@ -85,6 +85,6 @@ Aspiring Software Engineer | Java & DSA | Exploring Web Development
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 </a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3b0000,50:8b0000,100:ff2400&height=140&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,50:7a0000,100:c1121f&height=120&section=footer"/>
 
 </p>
