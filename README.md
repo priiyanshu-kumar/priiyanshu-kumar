@@ -19,9 +19,9 @@ Aspiring Software Engineer | Java & DSA | Exploring Web Development
 # 🚀 About Me
 
 - 💻 Passionate about solving real-world problems with code  
-- 🌱 Currently learning **Java, Data Structures & Web Development**  
+- 🌱 Currently doing **Java & Data Structures **  
 - 🧠 Improving **problem solving and algorithmic thinking**  
-- 📚 Exploring **HTML, CSS and Power BI**  
+- 📚 Exploring **HTML, CSS, Javascript & MERN**  
 - 🎯 Goal: Become a strong **Software Engineer**
 
 ---
