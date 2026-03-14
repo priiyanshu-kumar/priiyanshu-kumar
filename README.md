@@ -52,9 +52,9 @@ Aspiring Software Engineer | Java & DSA | Exploring Web Development
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=priyanshu-kumar&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=priiyanshu-kumar&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-kumar&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priiyanshu-kumar&layout=compact&theme=tokyonight" />
 
 </p>
 
@@ -63,7 +63,7 @@ Aspiring Software Engineer | Java & DSA | Exploring Web Development
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=priyanshu-kumar&theme=darkhub&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=priiyanshu-kumar&theme=darkhub&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
