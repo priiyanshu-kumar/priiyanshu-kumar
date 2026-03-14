@@ -10,6 +10,10 @@ Aspiring Software Engineer | Java & DSA | Exploring Web Development
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Future+Software+Engineer;Java+Developer;Learning+Data+Structures+%26+Algorithms;Exploring+Web+Development;Building+Projects&center=true&width=500&height=45">
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=priyanshu-kumar&label=Profile%20views&color=red&style=for-the-badge"/>
+</p>
+
 ---
 
 # 🚀 About Me
@@ -19,6 +23,15 @@ Aspiring Software Engineer | Java & DSA | Exploring Web Development
 - 🧠 Improving **problem solving and algorithmic thinking**  
 - 📚 Exploring **HTML, CSS and Power BI**  
 - 🎯 Goal: Become a strong **Software Engineer**
+
+---
+
+# 📚 Currently Learning
+
+- ☕ Java Programming  
+- 🧠 Data Structures & Algorithms  
+- 🌐 Web Development  
+- 📊 Power BI  
 
 ---
 
@@ -46,6 +59,14 @@ Aspiring Software Engineer | Java & DSA | Exploring Web Development
 
 ---
 
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=priyanshu-kumar&theme=darkhub&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -56,12 +77,56 @@ Aspiring Software Engineer | Java & DSA | Exploring Web Development
 
 ---
 
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu-kumar&theme=react-dark"/>
+</p>
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+- 📌 Java Practice Repository  
+- 📌 Data Structures Practice  
+- 📌 Web Development Learning Projects  
+
+---
+
 # 🎯 Currently Working On
 
 - ☕ **Java Programming**
 - 🧠 **Data Structures & Algorithms**
 - 🌐 **Web Development (HTML, CSS)**
 - 📊 **Learning Power BI**
+
+---
+
+# 💡 Random Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
 
 ---
 
@@ -87,6 +152,6 @@ Aspiring Software Engineer | Java & DSA | Exploring Web Development
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 </a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,50:7a0000,100:c1121f&height=120&section=footer"/>
-
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,50:7a0000,100:c1121f&height=120&section=footer"/>
