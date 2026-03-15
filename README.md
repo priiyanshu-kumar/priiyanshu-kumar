@@ -19,9 +19,9 @@ Aspiring Software Engineer | Java & DSA | Exploring Web Development
 # 🚀 About Me
 
 - 💻 Passionate about solving real-world problems with code  
-- 🌱 Currently doing **Java & Data Structures **  
+- 🌱 Currently doing **Java & Data Structures**  
 - 🧠 Improving **problem solving and algorithmic thinking**  
-- 📚 Exploring **HTML, CSS, Javascript & MERN**  
+- 📚 Exploring Full-Stack Web Development with the MERN Stack
 - 🎯 Goal: Become a strong **Software Engineer**
 
 ---
@@ -41,10 +41,8 @@ Aspiring Software Engineer | Java & DSA | Exploring Web Development
 
 # 📚 Currently Learning
 
-- ☕ Java Programming  
-- 🧠 Data Structures & Algorithms  
 - 🌐 Web Development  
-- 📊 Power BI  
+  
 
 ---
 
@@ -136,9 +134,7 @@ Aspiring Software Engineer | Java & DSA | Exploring Web Development
 
 # 🚀 Featured Projects
 
-- 📌 Java Practice Repository  
-- 📌 Data Structures Practice  
-- 📌 Web Development Learning Projects  
+- 📌 Soon...
 
 ---
 
@@ -146,8 +142,6 @@ Aspiring Software Engineer | Java & DSA | Exploring Web Development
 
 - ☕ **Java Programming**
 - 🧠 **Data Structures & Algorithms**
-- 🌐 **Web Development (HTML, CSS)**
-- 📊 **Learning Power BI**
 
 ---
 
