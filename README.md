@@ -41,7 +41,7 @@ Aspiring Software Engineer | Java & DSA | Exploring Web Development
 
 # 📚 Currently Learning
 
-- 🌐 Web Development  
+- 🌐 Full-Stack Web Development 
   
 
 ---
