@@ -19,6 +19,7 @@ Aspiring Software Engineer | Java & DSA | Exploring Web Development
 # 🚀 About Me
 
 - 💻 Passionate about solving real-world problems with code  
+- 🛠 Built an ERP-based Student Course Registration System using Python  
 - 🌱 Currently doing **Java & Data Structures**  
 - 🧠 Improving **problem solving and algorithmic thinking**  
 - 📚 Exploring Full-Stack Web Development with the MERN Stack
@@ -50,7 +51,11 @@ Aspiring Software Engineer | Java & DSA | Exploring Web Development
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,c,html,css,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=java,c,python,html,css,git,github,vscode"/>
+
+<img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy">
+<img src="https://img.shields.io/badge/Pandas-darkblue?style=for-the-badge&logo=pandas">
+<img src="https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge">
 
 <img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi">
 
@@ -134,7 +139,25 @@ Aspiring Software Engineer | Java & DSA | Exploring Web Development
 
 # 🚀 Featured Projects
 
-- 📌 Soon...
+### 🎓 ERP-Based Student Course Registration System
+- Built a modular ERP system using Python
+- Implemented Student & Course management with OOP
+- Added validation and exception handling
+- Used JSON for persistent storage and CSV export
+- Performed data analysis using NumPy & Pandas
+- Created visualizations using Matplotlib
+
+🔗 [View Project](your-link)
+
+---
+
+# 🧩 Project Highlights (ERP System)
+
+- 🏗 Developed a modular ERP system architecture
+- 🔐 Implemented input validation & exception handling
+- 📊 Performed data analysis using NumPy & Pandas
+- 📈 Built data visualizations using Matplotlib
+- 💾 Implemented JSON-based persistent storage
 
 ---
 
