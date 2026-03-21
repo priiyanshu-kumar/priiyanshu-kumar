@@ -147,7 +147,13 @@ Aspiring Software Engineer | Java & DSA | Exploring Web Development
 - Performed data analysis using NumPy & Pandas
 - Created visualizations using Matplotlib
 
-🔗 [View Project](your-link)
+🔗 [View Project](https://github.com/priiyanshu-kumar/erp-student-course-registration-system)
+
+---
+
+## 📸 Project Demo
+
+![Project Demo](project-demo.png)
 
 ---
 
@@ -160,6 +166,7 @@ Aspiring Software Engineer | Java & DSA | Exploring Web Development
 - 💾 Implemented JSON-based persistent storage
 
 ---
+
 
 # 🎯 Currently Working On
 
