@@ -153,7 +153,7 @@ Aspiring Software Engineer | Java & DSA | Exploring Web Development
 
 ## 📸 Project Demo
 
-![Project Demo](project-demo.png)
+<img src="project-demo.png" width="100%" />
 
 ---
 
