@@ -153,7 +153,7 @@ Aspiring Software Engineer | Java & DSA | Exploring Web Development
 
 ## 📸 Project Demo
 
-<img src="project-demo.png" width="100%" />
+![Project Demo](https://raw.githubusercontent.com/priiyanshu-kumar/erp-student-course-registration-system/main/project-demo.png)
 
 ---
 
