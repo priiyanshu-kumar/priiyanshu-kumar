@@ -121,15 +121,15 @@ Aspiring Software Engineer | Java & DSA | Exploring Web Development
 
 <p align="center">
 
-<a href="https://www.codechef.com/">
+<a href="https://www.codechef.com/users/priyanshu_war" target="_blank">
 <img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef"/>
 </a>
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/The--Priyanshu/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://www.hackerrank.com/">
+<a href="https://www.hackerrank.com/profile/h2500032023" target="_blank">
 <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank"/>
 </a>
 
@@ -187,16 +187,8 @@ Aspiring Software Engineer | Java & DSA | Exploring Web Development
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/priyanshu-kumar-744954377/">
+<a href="https://www.linkedin.com/in/priyanshu-kumar009/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:ppriyanshu.kumarr009@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://github.com/priiyanshu-kumar">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 </a>
 
 </p>
