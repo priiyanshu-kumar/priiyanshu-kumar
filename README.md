@@ -40,6 +40,30 @@ Aspiring Software Engineer | Java & DSA | Exploring Web Development
 
 ---
 
+# 🏆 Open Source Contributions
+
+### Social Summer of Code (SSoC) 2026
+
+- 🚀 Open Source Contributor at Social Summer of Code Season 5
+- 💻 Contributed to FreshScanAI
+- 🎯 Built an interactive onboarding tour using React Joyride
+- ✅ Pull Request merged into the main codebase
+- 🤝 Collaborated with maintainers through reviews and feedback
+
+<table>
+<tr>
+<td width="50%">
+<img src="./merged.png" alt="Merged Pull Request">
+</td>
+
+<td width="50%">
+<img src="./ssoc.png" alt="SSoC Contributor Badge">
+</td>
+</tr>
+</table>
+
+---
+
 # 📚 Currently Learning
 
 - 🌐 Full-Stack Web Development 
