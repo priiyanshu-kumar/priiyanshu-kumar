@@ -1,6 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5a0000,50:b11226,100:e50914&height=120&section=header"/>
-
-<h1 align="center">It's me Priyanshu</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5a0000,50:b11226,100:e50914&height=250&section=header&text=It's%20me%20Priyanshu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=50"/>
 
 <h3 align="center">
 Aspiring Software Engineer | Java & DSA | Exploring Web Development
