@@ -14,6 +14,8 @@ Aspiring Software Engineer | Java & DSA | Exploring Web Development
 
 ---
 
+<img src="https://raw.githubusercontent.com/MrSpideyNihal/MrspideyNihal/main/assets/spiderman.gif" width="220" align="right"/>
+
 # 🚀 About Me
 
 - 💻 Passionate about solving real-world problems with code  
